@@ -7,6 +7,8 @@ CAU biol217 course
 
 use this code 
 
+`check the actual directory`
+
 ```
 pwd
 mkdir Day01
