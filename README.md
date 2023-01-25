@@ -1,35 +1,8 @@
-# metagenomics
-CAU biol217 course
+# Metagenomics CAU biol217 course
 
-# Day 01 Introduction to Linux
+`Metagenomics is the study of genetic material recovered directly from environ- mental samples.`
 
-## Markdown documentation, GitHub
-
-use this code 
-
-`check the actual directory`
-
-```
-pwd
-mkdir Day01
-cd Day01
+Tutorials can be found there [link] (https://github.com/AammarTufail/Bioinformatics_Master_Module2023) 
 
 
-```
 
-
-- What we get as a result
-  
-    1. *creates a directory*
-    2. **goes to that directory**
-   
-
-> Important!
-
-
-My notes would go there\
-And what else\
-End.
-### Working with the github
-
-Another line is about a new changes. 
