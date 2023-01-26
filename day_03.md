@@ -14,20 +14,21 @@ Sequences composition is used to distinquish different genomes.
  - metrics of contamination: if there are regions where more than 1 single copy - then it's contamination
  - check for fragmentation
 
-## Strain heterogeneity ???
+## Assembly Quality assessment via Bandage
 
-## MAGs Q assessment
+## MAGs Quality assessment via QUAST 
 
-|country     |continent | year| lifeExp|      pop| gdpPercap|
+|estimates     |value | year| lifeExp|      pop| gdpPercap|
 |:-----------|:---------|----:|-------:|--------:|---------:|
-|Afghanistan |Asia      | 1952|  28.801|  8425333|  779.4453|
-|Afghanistan |Asia      | 1957|  30.332|  9240934|  820.8530|
-|Afghanistan |Asia      | 1962|  31.997| 10267083|  853.1007|
+|N50 value |Asia      | 1952|  28.801|  8425333|  779.4453|
+|# of contigs |Asia      | 1957|  30.332|  9240934|  820.8530|
+|total length of contigs |Asia      | 1962|  31.997| 10267083|  853.1007|
 |Afghanistan |Asia      | 1967|  34.020| 11537966|  836.1971|
 |Afghanistan |Asia      | 1972|  36.088| 13079460|  739.9811|
 |Afghanistan |Asia      | 1977|  38.438| 14880372|  786.1134|
 
 ## Answers
 
+![caption](<img width="688" alt="Screenshot 2023-01-26 at 22 39 56" src="https://user-images.githubusercontent.com/47306649/214957129-64ba0f5d-073b-4a07-937b-c551fc40a065.png">)
 `
  
