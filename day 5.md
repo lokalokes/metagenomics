@@ -4,13 +4,21 @@
 
 # Interactive mode with Anvio
 
+- [x] Open interactive mode
+- [ ] Understand the graphs
+- [ ] Make sense of it 
+  
 
-Completeness
+
+## Completeness
+
+| bin name | domain | confidence | %_completion | % redundancy | num_splits | total length |
+| ------------ | --------- | ------------- | --------------- | --------------- | ------------- | --------------- |
+│ METABAT__2 | BACTERIA | 0.9 | 84.51 | 4.23 | 268 | 1922042 |
 
 
-| bin name    │ domain   │   confidence │   % completion │   % redundancy │   num_splits │   total length │
-|:------------|----------|--------------|----------------|----------------|--------------|---------------:|
-│ METABAT__2  │ BACTERIA │          0.9 │          84.51 │           4.23 │          268 │        1922042 │
+
+
 │ METABAT__3  │ BACTERIA │          0.5 │          38.03 │           1.41 │          111 │         376073 │
 │ METABAT__48 │ BACTERIA │          0.8 │          77.46 │          12.68 │          137 │         757173 │
 │ METABAT__1  │ BACTERIA │          0.9 │          91.55 │              0 │          177 │        2125777 │
@@ -58,3 +66,10 @@ Completeness
 │ METABAT__35 │ BACTERIA │          0.9 │          85.92 │              0 │          320 │        2046664 │
 │ METABAT__36 │ BACTERIA │          0.9 │          84.51 │              0 │           83 │         888464 │
 │ METABAT__37 │ BACTERIA │          0.8 │          71.83 │           1.41 │          194 │         934790 │
+
+
+
+A total of 1,379 single-copy core genes with taxonomic affiliations were
+successfully initialized from the contigs database 
+
+

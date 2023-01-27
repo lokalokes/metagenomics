@@ -19,7 +19,7 @@ Sequences composition is used to distinquish different genomes.
 ## MAGs Quality assessment via QUAST 
 
 |Estimates   |value | description | 
-|:-----------|:-----|------------:|
+|:-----------|-----|------------:|
 |N50 value   |      | | 
 |# of contigs|      | | 
 
