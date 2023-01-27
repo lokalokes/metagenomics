@@ -9,8 +9,8 @@ Completeness
 
 
 | bin name    │ domain   │   confidence │   % completion │   % redundancy │   num_splits │   total length │
-|:-----------|-----|------------|--------|-----------|-----|------------:|
-│ METABAT__2  │ BACTERIA │   0.9 │   84.51 │    4.23 │          268 │   1922042 │
+|:------------|----------|--------------|----------------|----------------|--------------|---------------:|
+│ METABAT__2  │ BACTERIA │          0.9 │          84.51 │           4.23 │          268 │        1922042 │
 │ METABAT__3  │ BACTERIA │          0.5 │          38.03 │           1.41 │          111 │         376073 │
 │ METABAT__48 │ BACTERIA │          0.8 │          77.46 │          12.68 │          137 │         757173 │
 │ METABAT__1  │ BACTERIA │          0.9 │          91.55 │              0 │          177 │        2125777 │
@@ -18,7 +18,7 @@ Completeness
 │ METABAT__5  │ BLANK    │            1 │              0 │              0 │           57 │         238440 │
 │ METABAT__47 │ BACTERIA │            1 │          90.14 │              0 │           82 │        1624933 │
 │ METABAT__6  │ BACTERIA │          0.3 │          22.54 │              0 │          139 │         768627 │
-│ METABAT__7  │ BACTERIA │          0.7 │          70.42 │           2.82 │          252 │        1343426 │┤
+│ METABAT__7  │ BACTERIA │          0.7 │          70.42 │           2.82 │          252 │        1343426 │
 │ METABAT__8  │ BACTERIA │          0.5 │          45.07 │              0 │          233 │         863501 │
 │ METABAT__46 │ BACTERIA │            1 │          92.96 │           4.23 │           94 │        1978056 │
 │ METABAT__9  │ BACTERIA │            1 │          92.96 │           2.82 │          203 │        1615230 │
