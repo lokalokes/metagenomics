@@ -26,8 +26,8 @@ Sequences composition is used to distinquish different genomes.
 
 # Bandage
 
-![Alt text](sftp://sunam225@caucluster-old.rz.uni-kiel.de/home/sunam225/bandage_contigs.png)
 
- ![Alt text](sftp://sunam225@caucluster-old.rz.uni-kiel.de/home/sunam225/icarus.png)
- 
-![Alt text](sftp://sunam225@caucluster-old.rz.uni-kiel.de/home/sunam225/ikarus_report.png)
+![Bandage](bandage_contigs.png)
+
+![Icarus](icarus.png)
+
