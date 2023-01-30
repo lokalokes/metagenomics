@@ -1,5 +1,8 @@
 # Pangenomics and taxonomy
 
+https://merenlab.org/2016/11/08/pangenomics-v2/
+
+
 How do the MAGs compare in size and number of contigs to the full genome?
 
 ![Alt text](screenshots/contigs_stat.png)
@@ -37,6 +40,19 @@ Based on the frequency clustering of genes, do you think all genomes are related
 Bin9 and reference are related to each other and the rest bins have closer taxonomic relationships. Bin8 is the the most distinct. 
 
 ![Alt text](screenshots/synteny.png)
+
+
+
+What observations can you make regarding the geometric homogeneity between all genomes and the functional homogeneity?
+
+![Alt text](screenshots/gene_inspect.png)
+
+
+
+
+Can the organism do methanogenesis? Does it have genes similar to a bacterial secretion system?
+
+![Alt text](screenshots/methanogenesis.png)
 
 
 
